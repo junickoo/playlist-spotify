@@ -1,0 +1,14 @@
+/* You can add global styles to this file, and also import other style files */
+@import "~bootstrap/dist/css/bootstrap.css";
+* {
+  font-family: "Montserrat", sans-serif;
+}
+.btn {
+  background-color: rgb(29, 185, 84, 1);
+  color: white;
+  border: none 0px;
+}
+.btn:hover {
+  background-color: rgb(29, 185, 84, 0.8);
+  border: none 0px;
+}
